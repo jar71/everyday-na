@@ -14,11 +14,12 @@ author: Nicole & Anthony
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "aboutus"
   Links:
-    - Instagram: "https://www.instagram.com/everyday.na/"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Anthony: "https://www.instagram.com/anthonyrabbito/"
+    - Nicole: "https://www.instagram.com/wow_itsnikky/"
+    - MFP: "https://www.myfitnesspal.com/"
+  Instagram: "https://www.instagram.com/everyday.na/"
 
 # --- Logo --- #
 

@@ -1,13 +1,14 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About us
+subtitle: About Nicole & Anthony
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Our names are Nicole & Anthony we live in the Greater New York City area and we live for great food and better times. :cheese:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- We typically like to get our food from Amazon, Whole Foods or Trader Joes
+- We're always open to trying new things
+- We currently use MyFitnessPal to track our macros
 
 What else do you need?
 
