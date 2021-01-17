@@ -40,19 +40,19 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-#  email: "someone@example.com"
-#  facebook: deanattali
-#  github: daattali
-#  twitter: daattali
+  email: "nicolmartinezm99@gmail.com "
+  facebook: nikiibebemartinez
+  github: rabbito-home
+  twitter: wow_itsnikky
 #  patreon: DeanAttali
 #  youtube: c/daattali
-#  reddit: yourname
+  reddit: NickyMart
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
   instagram: everyday.na
-#  spotify: yourname
+  spotify: nickmartm
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
@@ -128,7 +128,7 @@ footer-link-col: "#404040"
 # --- Web Analytics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+gtag: "G-955BWYGKSK"
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
 #google_analytics: ""
