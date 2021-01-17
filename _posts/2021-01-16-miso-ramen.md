@@ -2,37 +2,29 @@
 layout: post
 title: Miso Beef Ramen
 subtitle: Each post also has a subtitle
-tags: [test]
+tags: [recipes, soup, lunch]
 comments: true
 ---
 
-Do you ever want some ramen but yor favorite restaurant is close? wouldnt come in handy having the perfect quick recipe?
-here it is!!
+![Miso](/assets/img/posts/2021-01-16-miso-ramen/miso.jpg){: .mx-auto.d-block :}
+
+
+#### Do you ever want some ramen but yor favorite restaurant is closed? Wouldn't it come in handy having the perfect quick recipe? Here it is!!
 
 
 Ingredients :
 
-Cabbage (5 oz)
-
-Carrots (4 oz)
-
-Chicken bouillon powder (2 tspn)
-
-Fresh ginger (.5 oz)
-
-Garlic (1 clove or 2 depending size)
-
-Soy sauce (2 tblspn)
-
-Miso paste or sauce (4 tbspn)
-
-Sesame oil (2 tspn)
-
-Eggs (as many as you want, at least one per plate)
-
-Green onions (spring onions) (1oz)
-
-Beef (I used Beef skirt steak) (4oz)
+- Cabbage *(5 oz)*
+- Carrots *(4 oz)*
+- Chicken bouillon powder *(2 tspn)*
+- Fresh ginger *(.5 oz)*
+- Garlic *(1 clove or 2 depending size)*
+- Soy sauce *(2 tblspn)*
+- Miso paste or sauce *(4 tbspn)*
+- Sesame oil *(2 tspn)*
+- Eggs *(as many as you want, at least one per plate)*
+- Green onions *(spring onions, 1oz)*
+- Beef, I used Beef skirt steak *(4oz)*
 
 Sesame seeds
 
