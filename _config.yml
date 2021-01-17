@@ -1,4 +1,4 @@
-# Welcome to Beautiful Jekyll!
+# Welcome to everyday.na!
 # This config file is meant for settings that affect your entire website. When you first
 # set up your website you should go through all these settings and edit them, but after
 # the initial set up you won't need to come back to this file often.
@@ -6,17 +6,17 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: everyday.na
 
 # Your name to show in the footer
-author: Some Person
+author: Nicole & Anthony
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+  Links:
+    - Instagram: "https://www.instagram.com/everyday.na/"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
 
