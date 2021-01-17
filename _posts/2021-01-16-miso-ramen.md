@@ -1,5 +1,5 @@
 ---
-layout: First Recipe
+layout: post
 title: Miso Beef Ramen
 subtitle: Each post also has a subtitle
 tags: [test]
