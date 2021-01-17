@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Miso Beef Ramen
-subtitle: Each post also has a subtitle
+subtitle: A traditional Japanese soup
 tags: [recipes, soup, lunch]
 comments: true
 ---
