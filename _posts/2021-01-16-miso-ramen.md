@@ -3,11 +3,10 @@ layout: post
 title: Miso Beef Ramen
 subtitle: A traditional Japanese soup
 tags: [recipes, soup, lunch]
+cover-img: "/assets/img/posts/2021-01-16-miso-ramen/miso.jpg"
+thumbnail-img: "https://media1.tenor.com/images/dbcfcb5915a85ad023cb1d9a4ab31747/tenor.gif"
 comments: true
 ---
-
-![Miso](/assets/img/posts/2021-01-16-miso-ramen/miso.jpg){: .mx-auto.d-block :}
-
 
 #### Do you ever want some ramen but yor favorite restaurant is closed? Wouldn't it come in handy having the perfect quick recipe? Here it is!!
 
