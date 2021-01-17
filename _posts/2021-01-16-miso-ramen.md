@@ -25,8 +25,7 @@ Ingredients :
 - Eggs *(as many as you want, at least one per plate)*
 - Green onions *(spring onions, 1oz)*
 - Beef, I used Beef skirt steak *(4oz)*
-
-Sesame seeds
+- Sesame seeds
 
 Procedure:
 With your clean cabbage and carrots, you will start chopping into strips, can also use a shredder by the big side. Then will cut the beef steak (can season or not ) Mince one garlic clove and 1 teaspoon ginger. Chopped your spring onion and set aside.
@@ -38,28 +37,3 @@ Once has softened enough, put 4 coups of warm water, and will start seasoning wi
 
 Meanwhile put Ramen noodles into boiling water, let boil until al dente, drain and bring into deep bowl.
 Also bring our Miso soup into a different bowl. Arrange your noodles, Miso, eggs, spring onion and sesame seeds at the table, ready to serve.
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
-
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
