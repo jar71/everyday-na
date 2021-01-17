@@ -16,12 +16,12 @@ Ingredients :
 
 - Cabbage *(5 oz)*
 - Carrots *(4 oz)*
-- Chicken bouillon powder *(2 tspn)*
+- Chicken bouillon powder *(2 tsp.)*
 - Fresh ginger *(.5 oz)*
 - Garlic *(1 clove or 2 depending size)*
-- Soy sauce *(2 tblspn)*
-- Miso paste or sauce *(4 tbspn)*
-- Sesame oil *(2 tspn)*
+- Soy sauce *(2 tbsp.)*
+- Miso paste or sauce *(4 tbsp.)*
+- Sesame oil *(2 tsp.)*
 - Eggs *(as many as you want, at least one per plate)*
 - Green onions *(spring onions, 1oz)*
 - Beef, I used Beef skirt steak *(4oz)*
@@ -33,7 +33,7 @@ Once this is done, will spray oil in a pan a low heat, can use canola oil or any
 
 Set aside in another pan boiling water for as many eggs as you will like, cook until your preference.
 
-Once has softened enough, put 4 coups of warm water, and will start seasoning with 2 teaspoons of chicken bouillon, 2 teaspoons soy sauce, 4 tablespoons miso paste or sauce, stir, let boil once and then let sit at low heat.
+Once has softened enough, put 4 cups of warm water, and will start seasoning with 2 teaspoons of chicken bouillon, 2 tablespoons soy sauce, 4 tablespoons miso paste or sauce, stir, let boil once and then let sit at low heat.
 
 Meanwhile put Ramen noodles into boiling water, let boil until al dente, drain and bring into deep bowl.
 Also bring our Miso soup into a different bowl. Arrange your noodles, Miso, eggs, spring onion and sesame seeds at the table, ready to serve.
