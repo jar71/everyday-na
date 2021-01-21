@@ -1,11 +1,28 @@
 ---
-layout: post
+layout: recipe
 title: Chocolate Chips Cookies
 subtitle: A Sweet Simple Dessert 
 tags: [recipes, dessert, lunch,sweets]
 cover-img: "/assets/img/posts/2021-01-16-miso-ramen/miso.jpg"
 thumbnail-img: "https://media.giphy.com/media/jPNIchKkAVeLXEUjXi/giphy.gif"
 comments: true
+calories: 10547
+prepmins: 20
+cookmins: 15
+ingredients:
+  porridge oats: 1kg
+  condensed milk: 400g
+  soft brown sugar: 500g
+  butter: 500g
+instructions:
+  - Preheat the oven to 150C fan.
+  - Line a large baking tin with baking parchment (my tin measures 39cm x 26cm).
+  - Melt the butter and sugar in a large pan over a low heat. Don't cook the butter, just warm it enough to melt it.
+  - Remove the pan from the heat and stir in the condensed milk.
+  - Mix in the oats until well coated by the mixture.
+  - Pour into the baking tin and smooth out with the back of a large spoon.
+  - Cook for about 15-20 minutes. When the flapjack starts to brown around the edges of the tin, take it out of the oven - it should still be relatively pale in the middle.
+  - Leave to cool for a few minutes before cutting into pieces.
 ---
 
 #### The thickest cookies, with the perfect amount of sugar, and they are easy and fast to make? Is this even possible? Yes it is. I am going to show you how, right now. 
