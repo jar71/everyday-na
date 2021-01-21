@@ -12,7 +12,7 @@ comments: true
 
 This is not just another cookie recipe, this is the healthier, thickest, and coolest chewiest cookie I could ever made, after a few try and fail I came out with what for *us* is the perfect cookie,there was a time in December that I went crazy making this cookies everytime I could, I mean what is better for a sweet fast treat than a cup of milk and two cookies.. or four, because once you have one you can not stop, with this recipe you can make a batch of around ten-twelve cookies. Ok I won't keep you any longer, here you have it!
 
-Ingredients :
+Ingredients:
 
 - Cabbage *(5 oz)*
 - Carrots *(4 oz)*
