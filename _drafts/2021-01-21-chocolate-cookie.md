@@ -30,7 +30,7 @@ Instructions:
   - Once fully combined add your chocolate chips and mix well again.
   - Next step will depend on you, you can use and ice cream spoon, a normal spoon or just use your hand to make little or big balls, it will depend on how big your cookies, just make sure to place them a least to 2 centimeters apart in yor prepared baking pan.
   - Everything that is left is to put them in your preheated oven for 8-10 mins. Take them out just when they are starting to turn brown.
- - Leave to cool for a few minutes before enjoying.
+  - Leave to cool for a few minutes before enjoying.
 ---
 #### The thickest cookies, with the perfect amount of sugar, and they are easy and fast to make? Is this even possible? Yes it is. I am going to show you how, right now.
 
