@@ -12,6 +12,7 @@ disqusShortname = "everydayna"
 googleAnalytics = "G-955BWYGKSK"
 enableGitInfo = true
 theme = ["beautifulhugo"]
+enableEmoji=true
 
 [Params]
   homeTitle = "everyday.na" # Set a different text for the header on the home page

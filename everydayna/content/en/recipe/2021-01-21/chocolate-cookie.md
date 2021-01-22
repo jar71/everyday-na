@@ -2,7 +2,7 @@
 title: Chocolate Chips Cookies
 subtitle: A Sweet Simple Dessert 
 author: Nicole
-tags: [recipes, dessert, lunch, sweets]
+tags: [recipes, dessert, lunch, sweets, chocolate ]
 type: post
 date: 2021-01-21
 bigimg: [{src: "/2021-01-21/cookie-5.jpg"}]
@@ -18,7 +18,7 @@ bigimg: [{src: "/2021-01-21/cookie-5.jpg"}]
 ## Ingredients
 
 - Butter | 1 cup / 7 Oz. | Softened
-- Light Brown Sugar | 6 Oz. | 
+- Light Brown Sugar | 6 Oz. 
 - Eggs | 2 eggs | 100 g.
 - Baking Powder | 1/2 tsp.
 - Baking Soda | 1 tsp.
