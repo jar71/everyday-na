@@ -2,7 +2,7 @@
 _site
 .sass-cache
 .vagrant
-everydayna/public
+/public
 
 # general
 .DS_Store
