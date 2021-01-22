@@ -1,0 +1,3 @@
+[submodule "everydayna/themes/beautifulhugo"]
+	path = everydayna/themes/beautifulhugo
+	url = https://github.com/halogenica/beautifulhugo.git
