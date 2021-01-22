@@ -9,7 +9,7 @@ pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
 disqusShortname = "everydayna"
-googleAnalytics = "G-955BWYGKSK"
+googleAnalytics = "UA-955BWYGKSK-3"
 enableGitInfo = true
 theme = ["beautifulhugo"]
 enableEmoji=true
