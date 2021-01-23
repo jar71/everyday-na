@@ -5,3 +5,6 @@
 .DS_Store
 Thumbs.db
 ehthumbs.db
+
+# ide
+.vscode
