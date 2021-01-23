@@ -10,7 +10,7 @@ bigimg: [{src: "/2021-01-16/miso-4.jpg"}]
 
 # Miso Beef Ramen
 
->If there is something I know is that everybody likes a least one Asian food, there is no way you don't end up drooling when you see one of those delicious looking plates in tv. Then you feel tempted to buy some, but we live in 2020, and that will get home all messed up, so... you have to make it yourself. Wouldn't it come in handy having the perfect quick recipe? Here it is!!
+>If there is something I know is that everybody likes a least one Asian food, there is no way you don't end up drooling when you see one of those delicious looking plates in TV. Then you feel tempted to buy some, but we live in 2020, and that will get home all messed up, so... you have to make it yourself. Wouldn't it come in handy having the perfect quick recipe? Here it is!!
 
 ![Is this Miso?](https://img.japankuru.com/prg_img/img/img2020051913551413107600.jpg)
 
@@ -35,8 +35,8 @@ bigimg: [{src: "/2021-01-16/miso-4.jpg"}]
 >Let's start with cleaning our cabbage and carrots, then you will chop into strips, can also use a shredder by the big side. Then will cut the beef steak (can season or not ) Mince one garlic clove and 1 teaspoon ginger. Chop your spring onion and set aside.
 
 1. Place a pan at medium high heat in your stove, put some oil, you can use canola oil or any you have in hand, I used avocado oil spray
-2. Sautee your garlic and ginger, let the smell fill your kitchen. :woman_cook:
-3. Next put you beef in, untill almost well cooked.
+2. Saute your garlic and ginger, let the smell fill your kitchen. :woman_cook:
+3. Next put you beef in, until almost well cooked.
 4. Now cabbage and carrots, cook until soften.
 5. Meanwhile in another pan you will boil your eggs.
 6. Back to our first pan, we will put in 4 cups of warm water
