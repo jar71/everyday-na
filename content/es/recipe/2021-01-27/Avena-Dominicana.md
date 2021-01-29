@@ -5,7 +5,7 @@ author: Nicole
 tags: [recipes, breakfast , lunch, sweets, chocolate ]
 type: post
 date: 2021-01-27
-bigimg: [{src: "/2021-01-21/cookie-5.jpg"}]
+bigimg: [{src: "/2021-01-27/oats-2.jpg"}]
 ---
 
 #### Esas mañanas cuando te levantas con mil cosas que hacer, sabes que no vas a comer hasta tarde, necesitas algo rápido, que te mantenga lleno y sea rico.Que vas a hacer? Oh claro, una avena de chocolate.
@@ -44,4 +44,4 @@ bigimg: [{src: "/2021-01-21/cookie-5.jpg"}]
 
 Dejas enfriar un poquito, y a comer con tostadas de queso o aguacatico, ya no hay preocupación porque tiempo sobra.
 
-{{< gallery dir="/2021-01-21/" />}}
+{{< gallery dir="/2021-01-27/" />}}
