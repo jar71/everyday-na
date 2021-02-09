@@ -10,11 +10,11 @@ bigimg: [{src: "/2021-02-04/bigimg1.jpg"}]
 
 #### Soft and chewy cookies, and they are perfect to trick your mind into semi healthier stuff, Anthony's been flipping with them, I swear the get sweeter by minute once store.
 
-![NumNum](https://64.media.tumblr.com/tumblr_m76retVC811qd27i1o1_500.gif)
-
 # Oatmeal Raisin Cookies
 
-> If you do not want to give up on your cookies treat but you seriously want to stop feeling as guilty I recommend you this oatmeal raisin cookies, you can swipe the raisins for trail mix (any nuts of your preference) or dry fruit, hope you try soon and enjoy. 
+> If you do not want to give up on your cookies treat but you seriously want to stop feeling as guilty I recommend you this oatmeal raisin cookies, you can swipe the raisins for trail mix (any nuts of your preference) or dry fruit, hope you try soon and enjoy.
+
+![NumNum](https://64.media.tumblr.com/tumblr_m76retVC811qd27i1o1_500.gif)
 
 ## Ingredients
 
