@@ -1,6 +1,6 @@
 ---
 title: Oatmeal Raisin Cookies
-subtitle: A Sweet Simple Dessert 
+subtitle: A Soft Sweet Simple Dessert 
 author: Nicole
 tags: [recipes, dessert, lunch, sweets, oatmeal, raisin ]
 type: post
