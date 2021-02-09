@@ -45,4 +45,4 @@ bigimg: [{src: "/2021-02-04/bigimg1.jpg"}]
 8. Bake 8-10 minutes or until light golden brown.
 9. Place in wire rack, cool completely.
 
-{{< gallery dir="/2021/02/04/gallery/" />}}
+{{< gallery dir="/2021-02-04/gallery/" />}}
