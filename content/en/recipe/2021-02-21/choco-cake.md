@@ -18,23 +18,23 @@ bigimg: [{src: "/2021-01-21/cookie-5.jpg"}]
 
 ## Cake Ingredients 
 
-- Light Brown Sugar* | 3 Cups. 
+- Light Brown Sugar[^1] | 3 Cups. 
 - Eggs | 3 eggs | I used Jumbo eggs.
 - Baking Powder | 2 tsp.
 - Baking Soda | 3 tsp.
 - Sea Salt | 1 tsp.
 - Unsweetened Cocoa Powder | 1 Cup
-- Avocado oil* | 1/2 Cup
+- Avocado oil[^2] | 1/2 Cup
 - All Purpose flour | 3 Cups | 
-- Buttermilk* |1 1/2 Cups 
+- Buttermilk[^3] |1 1/2 Cups 
 - Warm water | 1 cup
 - Vanilla Extract | 2 tsp.
 
-> *1* Light brown sugar can be replaced with white sugar, using same amount.
 
-> *2* Avocado oil can be replaced by vegetable oil, same amount.
 
-> *3* Buttermilk can be buy as itself, and can be made by putting 2 tablespoons white vinegar to almond or soy milk; and 1 tablespoon to normal milk. 
+
+
+
 
 ## Instructions
 
@@ -60,6 +60,12 @@ Leave to cool for a few minutes before enjoying.
 - Cocoa powder | 1 1/2 cups
 - Milk | 1/4 cup
 - Pure Vanilla Extract | 3 tsp.
+
+[^1]: Light brown sugar can be replaced with white sugar, using same amount.
+
+[^2]: Avocado oil can be replaced by vegetable oil, same amount.
+
+[^3]: Buttermilk can be buy as itself, and can be made by putting 2 tablespoons white vinegar to almond or soy milk; and 1 tablespoon to normal milk.
 
 
 {{< gallery dir="/2021-01-21/" />}}
