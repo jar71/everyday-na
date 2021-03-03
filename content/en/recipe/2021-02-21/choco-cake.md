@@ -2,7 +2,7 @@
 title: Buttermilk Chocolate Cake
 subtitle: Chocolate perfection  
 author: Nicole
-tags: [recipes, dessert, lunch, sweets, chocolate, treat, cake, buttermilk, dairy free ]
+tags: [recipes, dessert, sweets, chocolate, treat, cake, buttermilk, dairy free ]
 type: post
 date: 2021-02-21
 bigimg: [{src: "/2021-01-21/cookie-5.jpg"}]
@@ -26,40 +26,39 @@ bigimg: [{src: "/2021-01-21/cookie-5.jpg"}]
 - Unsweetened Cocoa Powder | 1 Cup
 - Avocado oil[^2] | 1/2 Cup
 - All Purpose flour | 3 Cups | 
-- Buttermilk[^3] |1 1/2 Cups 
+- Buttermilk[^3] |1 Cup 
 - Warm water | 1 cup
 - Vanilla Extract | 2 tsp.
-
-
-
-
-
 
 
 ## Instructions
 
 
 1. Preheat the oven to 350 degrees F. 
-2. Get your baking pan ready with butter and flour.
-3. In a bowl start mixing all you dry ingredients as flour, baking soda, baking powder and salt. 
-4. Soften the butter in the microwave for a few seconds.
-5. Now in another bowl cream together butter and sugar until fully combined.
-6. Beat eggs and vanilla until fluff.
-7. Start mixing together your ingredients, I recommend you start pouring your dry ingredients with sugar and butter and next your eggs. 
-8. Once fully combined add your chocolate chips and mix well again.
-9. Next step will depend on you, you can use and ice cream spoon, a normal spoon or just use your hand to make little or big balls, it will depend on how big your cookies, just make sure to place them a least to 2 centimeters apart in your prepared baking pan.
-10. Everything that is left is to put them in your preheated oven for 8-10 mins. Take them out just when they are starting to turn brown.
+2. Butter and dust with flour two cake pans.
+3. In a  big bowl start by mixing all you dry ingredients as flour, baking soda, baking powder, salt, cocoa, sugar.
+4. Add eggs, buttermilk, warm water, oil and vanilla. Beat until smooth.
+5. Divide the batter among the two pans.
+6. Bake for 30-35 minutes in a 350 degree oven until a toothpick inserted into the center comes out clean.
+7. Cool for 15 minutes and then turn out the cakes.
 
-Leave to cool for a few minutes before enjoying.
 
 ## Frosting  Ingredients 
 
-- Butter | 2 butter sticks| Softened
+- Butter | 2 butter sticks| 1 cup Softened
 - Powdered Sugar | 4 cups
 - Cream cheese | 8 oz.
 - Cocoa powder | 1 1/2 cups
-- Milk | 1/4 cup
+- Milk | 3 1/4 cup as needed.
 - Pure Vanilla Extract | 3 tsp.
+ 
+ ## Instructions
+
+ 1. In a large bowl beat together butter and cream cheese until smooth.
+ 2. Add in cocoa and vanilla, beat until combined.
+ 3. Beat in powdered sugar, one at time as you add milk.
+  
+  Frosting should be thick it will get thicker if refrigerated.
 
 [^1]: Light brown sugar can be replaced with white sugar, using same amount.
 
