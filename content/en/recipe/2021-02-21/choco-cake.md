@@ -5,7 +5,7 @@ author: Nicole
 tags: [recipes, dessert, sweets, chocolate, treat, cake, buttermilk, dairy free ]
 type: post
 date: 2021-02-21
-bigimg: [{src: "/2021-01-21/cookie-5.jpg"}]
+bigimg: [{src: "/2021-02-21/wholecake1.jpg"}]
 ---
 
 #### Craving chocolate cake? But want it to be soft and moist but full of texture? I got you, here I have the chocolate cake perfection, plus, is made as healthy as possible (not true I can make this healthier) 
@@ -67,4 +67,4 @@ bigimg: [{src: "/2021-01-21/cookie-5.jpg"}]
 [^3]: Buttermilk can be buy as itself, and can be made by putting 2 tablespoons white vinegar to almond or soy milk; and 1 tablespoon to normal milk.
 
 
-{{< gallery dir="/2021-01-21/" />}}
+{{< gallery dir="/2021-02-21/" />}}
